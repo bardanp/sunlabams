@@ -1,7 +1,7 @@
 # SunLab Access Management System (SunLabAMS)
 
 ## Overview
-SunLabAMS is a desktop application designed to facilitate access management for the SUN Lab. It provides a user-friendly graphical user interface (GUI) for both users and administrators. The application is built with Python, uses PyQt6 for the GUI, and Firebase for data storage and authentication.
+SunLabAMS is a desktop application designed to facilitate access management for the SUN Lab. It provides a user-friendly graphical user interface (GUI) for both users and administrators. The application is built with Python, uses PyQt6 for the GUI, and Firebase for data storage.
 
 ## Features
 

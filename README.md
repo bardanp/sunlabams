@@ -26,4 +26,4 @@ SunLabAMS is a desktop application designed to facilitate access management for 
     - Click on the "Admin Panel" button and enter the admin ID to access user management and logs.
 
 ## Video 
-**https://www.youtube.com/watch?v=5IzXeqfFrY8
+- https://www.youtube.com/watch?v=5IzXeqfFrY8
